@@ -49,7 +49,7 @@
     "pkg": "workspace:*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.3.0",
+    "react-router-dom": "^6.30.0",
     "sirv-cli": "^2.0.2",
     "tsx": "^3.9.0",
     "type-coverage": "^2.22.0",
